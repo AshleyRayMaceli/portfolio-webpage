@@ -1,6 +1,10 @@
 /* ============================================================
   PRIMARY STRUCTURE
 ============================================================ */
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+
 .container {
   max-width: 960px;
   margin: 0 auto;
