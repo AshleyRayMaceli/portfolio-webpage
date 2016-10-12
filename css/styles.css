@@ -45,6 +45,9 @@ section.module.parallax h1 {
 section.module.parallax-1 {
   background-image: url("../img/constellation.jpg");
 }
+section.module.parallax-2 {
+  background-image: url("../img/tech.jpg");
+}
 
 @media all and (min-width: 600px) {
   section.module h2 {
