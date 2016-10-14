@@ -140,9 +140,21 @@ section.module.parallax-5 {
   border-color: #40e0d0;
 }
 
+.contact-button-submit .hover-button {
+  display: none;
+}
+
 .contact-button-submit:hover {
   background-color: #43e8d8;
   border-color: #43e8d8;
+}
+
+.contact-button-submit:hover .no-hover-button {
+  display: none;
+}
+
+.contact-button-submit:hover .hover-button {
+  display: inline;
 }
 
 #input-message {
