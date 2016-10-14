@@ -55,6 +55,15 @@ section.module.parallax-1 h1 {
   text-transform: uppercase;
   text-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
 }
+section.module.parallax-5 h1 {
+  color: rgba(255, 255, 255, 0.8);
+  font-size: 48px;
+  line-height: 150px;
+  font-weight: 700;
+  text-align: left;
+  text-transform: uppercase;
+  text-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
 section.module.parallax-1 h2 {
   color: rgba(255, 255, 255, 0.8);
   font-size: 36px;
@@ -73,7 +82,10 @@ section.module.parallax-3 {
   background-image: url("../img/observation_deck.jpg");
 }
 section.module.parallax-4 {
-  background-image: url("../img/desk.jpeg");
+  background-image: url("../img/books.jpg");
+}
+section.module.parallax-5 {
+  background-image: url("../img/desk.jpg");
 }
 
 @media all and (min-width: 600px) {
