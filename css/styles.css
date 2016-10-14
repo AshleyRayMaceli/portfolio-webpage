@@ -13,19 +13,19 @@ body {
   SECTIONS
 ============================================================ */
 section.module:last-child {
-  /*margin-bottom: 0;*/
+  margin-bottom: 0;
 }
 section.module h2 {
-  /*margin-bottom: 40px;*/
+  margin-bottom: 40px;
   font-size: 30px;
 }
 section.module p {
-  /*margin-bottom: 40px;*/
+  margin-bottom: 40px;
   font-size: 16px;
   font-weight: 300;
 }
 section.module p:last-child {
-  /*margin-bottom: 0;*/
+  margin-bottom: 0;
 }
 section.module.content {
   padding: 40px 0;
@@ -36,6 +36,7 @@ section.module.parallax {
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
+  background-color: #000000;
 }
 section.module.parallax-2 h1, section.module.parallax-3 h1, section.module.parallax-4 h1 {
   color: rgba(255, 255, 255, 0.8);
@@ -49,7 +50,6 @@ section.module.parallax-2 h1, section.module.parallax-3 h1, section.module.paral
 section.module.parallax-1 h1 {
   color: rgba(255, 255, 255, 0.8);
   font-size: 48px;
-  /*line-height: 600px;*/
   font-weight: 700;
   text-align: center;
   text-transform: uppercase;
@@ -58,7 +58,6 @@ section.module.parallax-1 h1 {
 section.module.parallax-1 h2 {
   color: rgba(255, 255, 255, 0.8);
   font-size: 36px;
-  /*line-height: 600px;*/
   font-weight: 700;
   text-align: center;
   text-transform: uppercase;
@@ -111,4 +110,23 @@ section.module.parallax-4 {
 
 .education {
   text-align: center;
+}
+
+/* ============================================================
+  BACK TO TOP BUTTON
+============================================================ */
+
+a.back-to-top {
+	display: none;
+	width: 60px;
+	height: 60px;
+	text-indent: -9999px;
+	position: fixed;
+	z-index: 999;
+	right: 20px;
+	bottom: 20px;
+	background: #8BC34A url("../img/arrow.png") no-repeat center 45%;
+	-webkit-border-radius: 30px;
+	-moz-border-radius: 30px;
+	border-radius: 50%;
 }
