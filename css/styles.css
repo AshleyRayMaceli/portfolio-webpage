@@ -136,10 +136,33 @@ section.module.parallax-5 {
 .contact-button-submit {
   margin-top: 10px;
   width: 400px;
+  background-color: #40e0d0;
+  border-color: #40e0d0;
+}
+
+.contact-button-submit:hover {
+  background-color: #43e8d8;
+  border-color: #43e8d8;
 }
 
 #input-message {
   height: 200px;
+}
+
+.image {
+  position: relative;
+  width: 100%;
+}
+
+.image h1 {
+  position: absolute;
+  width: 100%;
+}
+
+#paper-airplane {
+  margin-top: 30px;
+  width: 700px;
+  height: auto;
 }
 
 /* ============================================================
