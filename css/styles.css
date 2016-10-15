@@ -123,6 +123,14 @@ section.module.parallax-5 {
   height: auto;
 }
 
+#curvy-arrow {
+  width: 200px;
+  height: auto;
+  transform: rotate(270deg);
+  margin-top: 50px;
+  margin-left: 270px;
+}
+
 /* ============================================================
   PROJECTS SECTION DETAILS
 ============================================================ */
