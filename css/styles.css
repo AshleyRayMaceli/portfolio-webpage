@@ -133,7 +133,7 @@ section.module.parallax-5 {
 
 .personal-headline {
   text-align: center;
-  margin-bottom: 20px;
+  margin-bottom: 40px;
 }
 
 /* ============================================================
@@ -152,6 +152,12 @@ section.module.parallax-5 {
 .project a {
   text-align: center;
   color: crimson;
+}
+
+.skills-title {
+  font-size: 3em;
+  text-align: center;
+  margin-bottom: 20px;
 }
 
 /* ============================================================
