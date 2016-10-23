@@ -173,6 +173,28 @@ section.module.parallax-5 {
 }
 
 /* ============================================================
+  WORK SECTION DETAILS
+============================================================ */
+
+.work-logo {
+  height: 150px;
+  width: 150px;
+}
+
+.work-details {
+  margin-top: 20px;
+  font-size: 14pt;
+}
+
+.work h1 {
+  text-align: center;
+}
+
+.work h3 {
+  text-align: center;
+}
+
+/* ============================================================
   EDUCATION SECTION DETAILS
 ============================================================ */
 
