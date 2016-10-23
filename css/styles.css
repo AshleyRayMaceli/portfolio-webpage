@@ -162,6 +162,10 @@ section.module.parallax-5 {
   max-width: 6em;
 }
 
+.skills-row {
+  margin-bottom: 20px;
+}
+
 /* ============================================================
   EDUCATION SECTION DETAILS
 ============================================================ */
