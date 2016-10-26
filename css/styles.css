@@ -168,6 +168,10 @@ section.module.parallax-5 {
   margin-bottom: 20px;
 }
 
+.project-titles p {
+  text-align: center;
+}
+
 /* ============================================================
   DEV ICONS
 ============================================================ */
