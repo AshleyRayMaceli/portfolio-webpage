@@ -148,6 +148,10 @@ section.module.parallax-5 {
   PROJECTS SECTION DETAILS
 ============================================================ */
 
+.project-instructions {
+  text-align: center;
+}
+
 .project {
   border: solid black 3px;
   border-radius: 10px;
