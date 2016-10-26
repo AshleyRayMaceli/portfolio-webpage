@@ -153,8 +153,8 @@ section.module.parallax-5 {
 }
 
 .project {
-  border: solid black 3px;
-  border-radius: 10px;
+  /*border: solid black 3px;
+  border-radius: 10px;*/
   height: 300px;
   width: 300px;
   margin: 10px;
