@@ -172,6 +172,11 @@ section.module.parallax-5 {
   text-align: center;
 }
 
+.project-image {
+  max-width: 280px;
+  max-height: 280px;
+}
+
 /* ============================================================
   DEV ICONS
 ============================================================ */
