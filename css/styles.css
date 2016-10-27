@@ -152,19 +152,14 @@ section.module.parallax-5 {
   text-align: center;
 }
 
-.project {
-  /*border: solid black 3px;
-  border-radius: 10px;*/
+/*.project {
+  border: solid black 3px;
+  border-radius: 10px;
   height: 300px;
   width: 300px;
   margin: 10px;
   padding: 10px;
-}
-
-.project a {
-  text-align: center;
-  color: crimson;
-}
+}*/
 
 .skills-title {
   font-size: 3em;
@@ -174,6 +169,7 @@ section.module.parallax-5 {
 
 .project-titles p {
   text-align: center;
+  margin-top: 20px;
 }
 
 .project-image {
