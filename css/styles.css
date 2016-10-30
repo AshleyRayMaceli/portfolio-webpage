@@ -294,11 +294,13 @@ section.module.parallax-5 {
 .contact-icons {
   height: 100px;
   width: 100px;
+  margin-bottom: 10px;
 }
 
 .contact-icons-text a {
   color: white;
   font-size: 25pt;
+  margin-bottom: 10px;
 }
 
 .contact-icons-text a:hover {
