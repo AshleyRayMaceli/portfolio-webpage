@@ -135,7 +135,8 @@ section.module.parallax-5 {
 #ashley-image {
   margin-top: 20px;
   margin-right: 70px;
-  height: 300px;
+  border-radius: 10px;
+  height: 350px;
   width: auto;
 }
 
