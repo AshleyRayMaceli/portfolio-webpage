@@ -291,6 +291,22 @@ section.module.parallax-5 {
   height: auto;
 }
 
+.contact-icons {
+  height: 100px;
+  width: 100px;
+}
+
+.contact-icons-text a {
+  color: white;
+  font-size: 25pt;
+}
+
+.contact-icons-text a:hover {
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+}
+
 /* ============================================================
   BACK TO TOP BUTTON
 ============================================================ */
